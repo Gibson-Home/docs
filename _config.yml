@@ -1,6 +1,6 @@
 title: Gibson Home
 description: Documentation for the Gibson Home.
-# theme: just-the-docs
+theme: just-the-docs
 color_scheme: dark
 search_enabled: true
 
