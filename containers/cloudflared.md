@@ -10,10 +10,11 @@ cloudflared provides a tunnel to publicly access internal resources without the 
 
 ## Docker Compose
 
+Update _REPLACE_ME_ with the token generated from Cloudflare.
+
 ```
 ---
 version: '3'
-
 services:
   cloudflared:
     container_name: cloudflared
