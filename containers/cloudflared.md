@@ -10,4 +10,4 @@ cloudflared provides a tunnel to publicly access internal resources without the 
 
 ## Resources
 
-[https://github.com/cloudflare/cloudflared] https://github.com/cloudflare/cloudflared
+[https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
