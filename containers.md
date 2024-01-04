@@ -1,5 +1,6 @@
 ---
 title: Containers
-layout: default
+layout: page
+nav_order: 2
 ---
 
