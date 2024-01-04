@@ -51,6 +51,10 @@ volumes:
   pihole-etc-dnsmasq.d:
 ```
 
+## Backups
+{: .important }
+> The container's volumes should be backed up.
+
 ## Resources
 
 [https://pi-hole.net/](https://pi-hole.net/)
